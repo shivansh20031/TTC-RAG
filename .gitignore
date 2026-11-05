@@ -1,0 +1,13 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets: never commit API keys
+.env
+
+# Downloaded PDFs: we link to originals instead of re-hosting them
+data/raw/*.pdf
+
+# macOS clutter
+.DS_Store
