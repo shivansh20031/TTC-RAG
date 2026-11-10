@@ -1,0 +1,16 @@
+HIT  (rank 1) How many streetcars does the TTC fleet have?
+MISS How many streetcar routes does the TTC operate?
+HIT  (rank 1) How many riders did the streetcar fleet carry last year?
+HIT  (rank 1) How many kilometres of streetcar track does the TTC have?
+HIT  (rank 3) How many additional streetcars is the TTC ordering?
+HIT  (rank 1) What type of streetcars has the TTC operated since 2020?
+HIT  (rank 4) How many people did Wheel-Trans carry in 2024?
+HIT  (rank 1) How many kilometres did Wheel-Trans operate in 2024?
+HIT  (rank 1) How many Wheel-Trans buses are in the fleet?
+HIT  (rank 1) How many active registrants does Wheel-Trans serve?
+HIT  (rank 2) When did Wheel-Trans service begin?
+HIT  (rank 1) When was Wheel-Trans fully integrated into the TTC?
+HIT  (rank 2) What is Wheel-Trans customer satisfaction?
+HIT  (rank 1) When is the first men's FIFA World Cup match on Canadian soil?
+
+Recall@5: 13/14 = 93%

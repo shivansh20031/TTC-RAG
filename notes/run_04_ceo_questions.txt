@@ -1,0 +1,22 @@
+HIT  (rank 3) How many buses does the TTC have?
+HIT  (rank 4) How many people rode TTC buses in 2025?
+HIT  (rank 1) What share of total TTC ridership do buses account for?
+HIT  (rank 1) Where is the SRT busway conversion happening?
+MISS What was bus on-time performance in April 2026?
+MISS Did bus delay minutes go up or down in April?
+HIT  (rank 1) Has the TTC moved large crowds for big events before?
+HIT  (rank 1) How many customer trips did the World Cup routes carry in the first phase?
+HIT  (rank 1) How much did match-day trips increase over the same period last year?
+HIT  (rank 1) Which corridors carried the World Cup trips?
+MISS What was the TTC's customer satisfaction score in July 2026?
+MISS What was the Real Time survey trip rating?
+HIT  (rank 3) How much did the Line 5 p.m. peak round-trip time drop?
+HIT  (rank 3) How much did the Line 6 p.m. peak round-trip time drop?
+HIT  (rank 1) How many streetcars have the passing enforcement cameras been installed on?
+HIT  (rank 5) How many streetcar stops are accessible?
+MISS What is the average streetcar speed?
+HIT  (rank 3) What was the streetcar cleanliness score in Q1 2026?
+MISS How far does a streetcar travel between failures?
+MISS How many streetcar boardings per week were there?
+
+Recall@5: 13/20 = 65%
