@@ -51,4 +51,4 @@ Saved evaluation runs are in `notes/`.
 
 ## License
 
-Not yet chosen. The CEO reports belong to the TTC. Check whether you can redistribute them before adding the PDFs to the repo.
+The CEO reports belong to the TTC. Check whether you can redistribute them before adding the PDFs to the repo.
